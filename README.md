@@ -39,8 +39,8 @@ This repository includes **clean, commented, and practical Python files** that d
 |----------------|-------------------------------------------|
 | 🔗 Website      | [princemonga.site](https://princemonga.site)       |
 | 🧠 LinkedIn     | [Prince Monga](https://www.linkedin.com/in/prince-monga-) |
-| 🐦 Twitter/X    | [@princemonga_](https://twitter.com/prince_monga7)       |
-| 💼 GitHub       | [github.com/princemonga](https://github.com/prince-monga) |
+| 🐦 Twitter/X    | [@prince_monga7](https://twitter.com/prince_monga7)       |
+| 💼 GitHub       | [github.com/prince-monga](https://github.com/prince-monga) |
 
 ---
 
